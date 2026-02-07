@@ -29,11 +29,11 @@ export default function Home() {
       <div className="min-h-screen bg-gradient-to-br from-pink-100 via-rose-100 to-red-100 flex items-center justify-center p-4">
         <div className="text-center space-y-8 animate-fade-in">
           <div className="text-8xl mb-4 animate-bounce">💕</div>
-          <h1 className="text-5xl md:text-7xl font-bold text-rose-600 mb-4">
-            Yay! 🎉
+          <h1 className="text-5xl md:text-4xl font-bold text-rose-600 mb-4">
+            Note from Raqib:
           </h1>
-          <p className="text-2xl md:text-3xl text-rose-700 font-medium">
-            You made my day! ❤️
+          <p className="text-2xl md:text-xl text-rose-700 font-medium">
+          Sofia Mandri, there are so many things about you that I appreciate and find so beautiful. Here are some to name a few. I love your consideration, the way you’re always thoughtful in ways most people don’t even notice. You have this rare ability to make me see the colour in life just by making me feel. Your ambition and persistence inspire me, and your smile… it melts my heart every time. Your eyes, your very, very cool style, and even the way your pupils dilate when you see me hehe. I adore how excited you get about the little things, how deeply you care for me down to the most minute details, and how attentive you are to everything around you. The way you hold my face and look at me makes the world go quiet. Your curiosity, your humour, the sweet texts you send after we hang out, the little frown you do when you’re trying to convince me and you roll out your lower lip, and the moments when you look at me like 🙃. Everyday that I spend with you I feel happier and I like you more. Thank you for being my valentine. ◡̈  
           </p>
           <div className="text-6xl mt-8">🌹💐🌹</div>
         </div>
